@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TreadmillCommunicator.cs">
+    <Files>
+      <File FileName="Assets\InterpretTreadmillData.cs" Line="1" Column="1" />
+      <File FileName="Assets\TreadmillCommunicator.cs" Line="12" Column="21" />
+      <File FileName="Assets\Server.cs" Line="1" Column="1" />
+      <File FileName="Assets\Message.cs" Line="1" Column="1" />
+      <File FileName="Assets\Addons\CameraPathCreator\Scripts\CPC_CameraPath.cs" Line="1" Column="1" />
+      <File FileName="Assets\Addons\CameraPathCreator\Scripts\Editor\CPC_CameraPathInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Canvas_UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Quit.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
